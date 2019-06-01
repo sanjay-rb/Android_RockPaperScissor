@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RockPaperScissor</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="logo">SSS</string>
+    <string name="load">Loading</string>
+    <string name="title_activity_mainmenu">Mainmenu</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="rock_paper_scissor">Rock, Paper, Scissor</string>
+    <string name="title_activity_play__rps">Play_RPS</string>
+    <string name="stone">Stone</string>
+    <string name="paper">Paper</string>
+    <string name="scissor">Scissor</string>
+    <string name="select">Select</string>
+    <string name="stonecp">StoneCp</string>
+    <string name="scissorcp">Scissorcp</string>
+    <string name="papercp">Papercp</string>
+    <string name="selectcp">Selectcp</string>
+    <string name="empty"></string>
+    <string name="sss">SSS</string>
+    <string name="swg">Snake,Water,Gun</string>
+    <string name="poke">Pokemon</string>
+    <string name="title_activity_snake_water_gun">SnakeWaterGun</string>
+    <string name="title_activity_play_poke">Play_poke</string>
+
+</resources>
